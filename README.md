@@ -2,9 +2,9 @@
 ![Santa's github stats](https://github-readme-stats.vercel.app/api?username=santacodes&include_all_commits=true&custom_title=Santa's%20stats&theme=gotham&show_icons=true&hide=contribs)
 
 
-## I'm a high schooler and I am lazy so I just make automation bots who work for me :) 
-- 🌱 Currently learning TensorFlow.
-- ⚡ I'm a Coder. I like to automate daily repetitive tasks. I love using Linux. Currently Using ArchLinux
+## I'm a high schooler and I love automation and AI :) 
+- ⌨️ Currently learning TensorFlow.
+- 💻 I'm a Coder. I like to automate daily repetitive tasks. I love using Linux. Currently Using ArchLinux
 - :globe_with_meridians: [Check out my website](https://santacodes.github.io)
 
 ### I am familiar with
@@ -22,7 +22,7 @@
 
 
 <!--
-**freakingrocky/freakingrocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**santacodes/santacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
