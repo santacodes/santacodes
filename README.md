@@ -1,4 +1,4 @@
-### Hey there, I'm Santa/Santhosh.
+### Hey there, I'm Santhosh.
 ![Santhosh's github stats](https://github-readme-stats.vercel.app/api?username=santacodes&include_all_commits=true&custom_title=Santa's%20stats&theme=gotham&show_icons=true&hide=contribs)
 
 
