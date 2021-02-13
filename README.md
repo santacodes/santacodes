@@ -1,5 +1,5 @@
 ### Hey there, I'm Santa/Santhosh.
-![Santa's github stats](https://github-readme-stats.vercel.app/api?username=santacodes&include_all_commits=true&custom_title=Santa's%20stats&theme=gotham&show_icons=true&hide=contribs)
+![Santhosh's github stats](https://github-readme-stats.vercel.app/api?username=santacodes&include_all_commits=true&custom_title=Santa's%20stats&theme=gotham&show_icons=true&hide=contribs)
 
 
 ## I'm a high schooler and I love automation and AI :) 
