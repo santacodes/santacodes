@@ -4,7 +4,7 @@
 
 ## I'm a high schooler and I love automation and AI :) 
 - ⌨️ Currently learning TensorFlow.
-- 💻 I'm a Coder. I like to automate daily repetitive tasks. I love using Linux. Currently Using ArchLinux
+- 💻 Love using Linux. Currently Using ArchLinux
 - :globe_with_meridians: [Check out my website](https://santacodes.github.io)
 
 ### I am familiar with
