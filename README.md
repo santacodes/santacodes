@@ -1,3 +1,5 @@
+![GIF](https://i.imgur.com/fhVTAyV.gif)
+
 ### Hey there, I'm Santhosh.
 ![Santhosh's github stats](https://github-readme-stats.vercel.app/api?username=santacodes&include_all_commits=true&custom_title=Santhosh's%20stats&theme=gotham&show_icons=true&hide=contribs)
 
@@ -23,6 +25,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santacodes&layout=compact&theme=gotham&card_width=1000&langs_count=10)
 
+![GIF](https://i.imgur.com/fhVTAyV.gif)
 
 <!--
 **santacodes/santacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
