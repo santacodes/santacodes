@@ -5,7 +5,7 @@
 
 ![GIF](https://i.imgur.com/fhVTAyV.gif)
 
-## I'm a high schooler and I love automation and AI :) 
+## I'm a High School Senior and I love automation and AI :) 
 - ⌨️ Currently learning TensorFlow.
 - 💻 Love using Linux. Currently Using Arch Linux
 - :globe_with_meridians: [Check out my LinkedIn](https://www.linkedin.com/in/santhosh-sundaram-897324204)
