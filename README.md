@@ -7,7 +7,7 @@
 
 ## I'm a high schooler and I love automation and AI :) 
 - ⌨️ Currently learning TensorFlow.
-- 💻 Love using Linux. Currently Using ArchLinux
+- 💻 Love using Linux. Currently Using Arch Linux
 - :globe_with_meridians: [Check out my LinkedIn](https://www.linkedin.com/in/santhosh-sundaram-897324204)
 
 ### I am familiar with
