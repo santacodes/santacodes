@@ -8,7 +8,6 @@
 ## I'm a High School Senior and I love automation and AI :) 
 - ⌨️ Currently learning TensorFlow.
 - 💻 Love using Linux. Currently Using Arch Linux
-- :globe_with_meridians: [Check out my LinkedIn](https://www.linkedin.com/in/santhosh-sundaram-897324204)
 
 ### I am familiar with
 [<img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
