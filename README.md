@@ -5,7 +5,7 @@
 
 ![GIF](https://i.imgur.com/fhVTAyV.gif)
 
-## I'm an undergrad freshman and I love automation and AI :) 
+## I'm an undergrad student currently into automation and AI :) 
 - ⌨️ Currently learning TensorFlow.
 - 💻 Love using Linux. Currently Using Arch Linux
 
