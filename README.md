@@ -6,8 +6,9 @@
 ![GIF](https://i.imgur.com/fhVTAyV.gif)
 
 ## I'm an undergrad student currently into automation and AI :) 
-- ⌨️ Currently learning TensorFlow.
-- 💻 Love using Linux. Currently Using Arch Linux
+- ⌨️ Currently learning to make machines think!
+- 💻 Love using Linux, Arch is my personal preference.
+- 🔭 I’m currently working on a convolutional neural network model.
 
 ### I am familiar with
 [<img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
