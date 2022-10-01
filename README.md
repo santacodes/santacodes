@@ -11,7 +11,7 @@
 
 ### I am familiar with
 [<img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img alt="Go" width="40px" src="https://golang.org/lib/godoc/images/go-logo-blue.svg" />
+<img alt="Go" width="40px" src="https://logodix.com/logo/2142700.png" />
 <img alt="TensorFlow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img alt="HTML" width="40px" src="https://www.tel.computerservice.ie/wp-content/uploads/2020/04/1417589451_html-256.png" />
 <img alt="CSS" width="40px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
